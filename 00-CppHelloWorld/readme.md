@@ -1,2 +1,2 @@
 # Version del Compilador
-MingGW 9.2.0
++ MingGW 9.2.0
